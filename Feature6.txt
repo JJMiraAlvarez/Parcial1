@@ -1,0 +1,4 @@
+metodo 6
+{
+hola
+}
